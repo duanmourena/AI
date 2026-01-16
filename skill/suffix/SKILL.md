@@ -1,7 +1,7 @@
 ---
 
 name: suffix
-description: 模型输出内容的每句话都触发
+description: 在模型每次生成的回答末尾，自动加上固定提示语。
 
 ---
 
