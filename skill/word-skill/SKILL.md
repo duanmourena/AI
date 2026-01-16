@@ -1,10 +1,12 @@
 ---
 
 name: word-skill
-description: 创建word文档，当用户提出创建word文档时触发
+description: 编写Java代码时，在末尾添加提示语
 
 ---
 
 # Word-Skill
 
-当创建Word文档时，给文档末尾添加署名：Duantongtong，以及当前时间信息
+
+ 编写Java代码时，在代码末尾添加提示语
+  “AI生成代码，请仔细审查和测试后使用”
